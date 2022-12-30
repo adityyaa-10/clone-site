@@ -15,32 +15,32 @@ const Cards = () => (
             </div>
 
 
-            <div class="flex flex-wrap mx-auto my-5 ">
-                <div class="w-80 m-auto max-w-sm ">
-                    <img src={card1} alt="" class="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
-                    <div class="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
-                        <h2 class="text-center text-gray-800 text-2xl font-bold pt-6">Ideate</h2>
-                        <div class="w-5/6 m-auto">
-                            <p class="text-center text-gray-500 pt-5 pb-5">To start your search for that drop-dead idea that's going to set the world on fire, open yourself to the possibilities and you will be bound to become a winner.</p>
+            <div className="flex flex-wrap mx-auto my-5 ">
+                <div className="w-80 m-auto max-w-sm ">
+                    <img src={card1} alt="" className="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
+                    <div className="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
+                        <h2 className="text-center text-gray-800 text-2xl font-bold pt-6">Ideate</h2>
+                        <div className="w-5/6 m-auto">
+                            <p className="text-center text-gray-500 pt-5 pb-5">To start your search for that drop-dead idea that's going to set the world on fire, open yourself to the possibilities and you will be bound to become a winner.</p>
                         </div>
                     </div>
                 </div>
 
-                <div class="w-80 m-auto max-w-sm mt-10 md:mt-0">
-                    <img src={card2} alt="" class="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
-                    <div class="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
-                        <h2 class="text-center text-gray-800 text-2xl font-bold pt-6">Create</h2>
-                        <div class=" w-5/6 m-auto">
-                            <p class="text-center text-gray-500 pt-5 pb-5">Create an entrepreneurship community where we ideate, innovate and mold your idea into a full-fledged running venture.</p>
+                <div className="w-80 m-auto max-w-sm mt-10 md:mt-0">
+                    <img src={card2} alt="" className="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
+                    <div className="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
+                        <h2 className="text-center text-gray-800 text-2xl font-bold pt-6">Create</h2>
+                        <div className=" w-5/6 m-auto">
+                            <p className="text-center text-gray-500 pt-5 pb-5">Create an entrepreneurship community where we ideate, innovate and mold your idea into a full-fledged running venture.</p>
                        <br />
                         </div>
                     </div>
-                </div><div class=" w-80 m-auto max-w-sm mt-10 md:mt-0">
-                    <img src={card3} alt="" class="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
-                    <div class="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
-                        <h2 class="text-center text-gray-800 text-2xl font-bold pt-6">Incubate</h2>
-                        <div class="w-5/6 m-auto">
-                            <p class="text-center text-gray-500 pt-5 pb-5">Your idea needs to get nurtured in order to reach full strength and to be able to breathe and grow independently.</p>
+                </div><div className=" w-80 m-auto max-w-sm mt-10 md:mt-0">
+                    <img src={card3} alt="" className="rounded-t-2xl shadow-2xl lg:w-full 2xl:w-full 2xl:h-44 object-cover" />
+                    <div className="bg-white shadow-2xl rounded-b-3xl  w-[86%] md:w-[100%]">
+                        <h2 className="text-center text-gray-800 text-2xl font-bold pt-6">Incubate</h2>
+                        <div className="w-5/6 m-auto">
+                            <p className="text-center text-gray-500 pt-5 pb-5">Your idea needs to get nurtured in order to reach full strength and to be able to breathe and grow independently.</p>
                             <br />
                         </div>
                     </div>
