@@ -66,7 +66,7 @@ export default function NavBar() {
                         <ul className="items-center justify-center space-y-8 md:flex md:space-x-6 md:space-y-0">
                             <li><Menu as="div" className="relative inline-block text-left">
                                 <div>
-                                    <Menu.Button className="inline-flex w-full justify-center rounded-md  bg-white px-4 py-2 text-md font-medium hvrgrow">
+                                    <Menu.Button className="inline-flex w-full justify-center rounded-md  bg-white px-4 py-2 text-2xl font-light hvrgrow">
                                         Discover
                                         {/* <ChevronDownIcon className="-mr-1 ml-2 h-5 w-5" aria-hidden="true" /> */}
                                     </Menu.Button>
@@ -168,7 +168,7 @@ export default function NavBar() {
                             </li>
                             <li><Menu as="div" className="relative inline-block text-left">
                                 <div>
-                                    <Menu.Button className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-md font-medium hvrgrow">
+                                    <Menu.Button className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-2xl font-light hvrgrow">
                                         Initiatives
                                         {/* <ChevronDownIcon className="-mr-1 ml-2 h-5 w-5" aria-hidden="true" /> */}
                                     </Menu.Button>
@@ -270,7 +270,7 @@ export default function NavBar() {
                             </Menu>
                             </li><li><Menu as="div" className="relative inline-block text-left">
                                 <div>
-                                    <Menu.Button className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-md font-medium hvrgrow">
+                                    <Menu.Button className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-2xl font-light hvrgrow">
                                         Learn
                                         {/* <ChevronDownIcon className="-mr-1 ml-2 h-5 w-5" aria-hidden="true" /> */}
                                     </Menu.Button>
@@ -332,10 +332,10 @@ export default function NavBar() {
                                 </Transition>
                             </Menu>
                             </li>
-                            <li className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-md font-medium hvrgrow">
+                            <li className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-2xl font-light hvrgrow">
                                 <a href="javascript:void(0)">Incubator</a>
                             </li>
-                            <li className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-md font-medium hvrgrow">
+                            <li className="inline-flex w-full justify-center rounded-md bg-white px-4 py-2 text-2xl font-light hvrgrow">
                                 <a href="javascript:void(0)">Contact</a>
                             </li>
                         </ul>
