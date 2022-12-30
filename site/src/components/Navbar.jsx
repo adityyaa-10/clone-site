@@ -326,7 +326,7 @@ export default function NavBar() {
                                                     </a>
                                                 )}
                                             </Menu.Item>
-                                            
+
                                         </div>
                                     </Menu.Items>
                                 </Transition>

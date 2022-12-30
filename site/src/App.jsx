@@ -5,8 +5,8 @@ import Navbar from './components/Navbar';
 
 const App = () => (
   <div>
-  <Navbar/>
-  <Hero/>
+    <Navbar />
+    <Hero />
   </div>
 );
 
