@@ -21,7 +21,7 @@ const Footer = () => {
                             <input type="text" placeholder='Enter your email' className=' max-w-[200px] px-7 py-3 text-black border border-[#4d55bb] rounded-lg' />
 
                             <a href="#" className="inline-flex  ml-5 items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
-                                Incubator
+                                Subscribe!
                             </a>
                             </div>
 
@@ -336,26 +336,6 @@ const Footer = () => {
 
                     <div class="mt-12 border-t border-gray-100 pt-6">
                         <div class="text-center sm:flex sm:justify-between sm:text-left">
-                            {/* <p class="text-sm text-gray-500">
-                                <span class="block sm:inline">All rights reserved.</span>
-
-                                <a
-                                    class="inline-block text-teal-600 underline transition hover:text-teal-600/75"
-                                    href="/"
-                                >
-                                    Terms & Conditions
-                                </a>
-
-                                <span>&middot;</span>
-
-                                <a
-                                    class="inline-block text-[#4d55bb]"
-                                    href="/"
-                                >
-                                    Privacy Policy
-                                </a>
-                            </p> */}
-
                             <p class="mt-4 text-sm text-gray-500 sm:order-first sm:mt-0">
                                 &copy; 2022 E-CELL KIET
                             </p>
