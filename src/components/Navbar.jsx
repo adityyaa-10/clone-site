@@ -2,8 +2,9 @@ import { useState } from "react";
 import { Fragment } from 'react'
 import { Menu, Transition } from '@headlessui/react'
 import { ChevronDownIcon } from '@heroicons/react/20/solid'
-import styles from '../index.css'
+import styles from '../index.css?inline'
 import logo from '../assets/logo.jpg'
+
 
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ')
