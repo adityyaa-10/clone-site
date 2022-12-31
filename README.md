@@ -29,15 +29,34 @@ $ gh repo clone adityyaa-10/clone-site
 $ git clone https://github.com/adityyaa-10/clone-site.git
 ```
 
-4. Install dependencies 
+4. Change directory
+
+```
+$ cd clone-site
+```
+
+5. Install dependencies 
 
 ```bash 
 $ npm install
 ```
 
-5. Run deployment 
+#### OR
+```bash 
+$ yarn
+```
+
+
+
+6. Run deployment 
 
 ```bash 
 $ npm run dev
 ```
-6. Open [localhost](http://localhost:5173/) in any browser of your choice.
+
+#### OR
+
+```bash 
+$ yarn dev
+```
+7. Open [localhost](http://localhost:5173/) in any browser of your choice.
