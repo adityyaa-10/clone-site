@@ -11,12 +11,12 @@ const Info = () => (
             <div className="ml-auto place-self-center lg:col-span-7 ">
                 <h1 className="max-w-2xl mb-4 text-4xl font-light tracking-tight leading-none md:text-5xl xl:text-6xl ">What is <span className='text-[#4d55bb] font-bold'>E-Cell ?</span></h1>
 
-                <p className=" text-center max-w-xl mt-11 mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">KIET E-Cell is a student body of KIET, formed in 2014 with the aim to promote an entrepreneurial culture among the young minds of today's generation, and to encourage an entrepreneurial mindset in an aspiring individual to convert their "Drop of an Idea into an Ocean of Reality".</p>
-                    <a href="#" className="inline-flex items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
-                        Learn More!
-                    </a>
-                </div>
+                <p className=" max-w-xl mt-11 mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">KIET E-Cell is a student body of KIET, formed in 2014 with the aim to promote an entrepreneurial culture among the young minds of today's generation, and to encourage an entrepreneurial mindset in an aspiring individual to convert their "Drop of an Idea into an Ocean of Reality".</p>
+                <a href="#" className="inline-flex items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
+                    Learn More!
+                </a>
             </div>
+        </div>
     </section>
 )
 
