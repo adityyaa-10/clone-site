@@ -5,7 +5,7 @@ import { ChevronDownIcon } from '@heroicons/react/20/solid'
 import styles from '../index.css?inline'
 import logo from '../assets/logo.jpg'
 
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom"
 function classNames(...classes) {
     return classes.filter(Boolean).join(' ')
 }
@@ -109,7 +109,7 @@ export default function NavBar() {
                                                     <div className="hvr-wobble-horizontal cursor-pointer">
                                                         <div className="grid grid-cols-2">
                                                             <svg className="hidden md:flex w-10 ml-3 mt-3" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg"><g id="BULB"><path d="m52.39 20.67a20.58 20.58 0 0 0 -19.39-19.4 20.43 20.43 0 0 0 -21.42 20.4 20.25 20.25 0 0 0 6.29 14.73 12.33 12.33 0 0 1 3.74 8.88 4.63 4.63 0 0 0 3.89 4.56v2.71h-1a.75.75 0 1 0 0 1.5h1v.74a3.39 3.39 0 0 0 2.65 3.31v.8a3.85 3.85 0 1 0 7.69 0v-.8a3.4 3.4 0 0 0 2.65-3.31v-.74h1.37a.75.75 0 0 0 0-1.5h-1.37v-2.71a4.63 4.63 0 0 0 3.89-4.56 12 12 0 0 1 3.62-8.77 20.42 20.42 0 0 0 6.39-15.84zm-18 38.23a2.35 2.35 0 1 1 -4.69 0v-.71h4.69zm2.61-4.11a1.9 1.9 0 0 1 -1.9 1.9h-6.2a1.9 1.9 0 0 1 -1.9-1.9v-.74h10zm-10-2.24v-2.63h10v2.63zm18-17.13a13.58 13.58 0 0 0 -4.1 9.86 3.15 3.15 0 0 1 -3.14 3.14h-11.51a3.15 3.15 0 0 1 -3.14-3.15 13.83 13.83 0 0 0 -4.2-10 18.93 18.93 0 0 1 .09-27.27 18.76 18.76 0 0 1 13-5.25h1a18.92 18.92 0 0 1 12 32.67z" /><path d="m32 26.43a.75.75 0 0 0 0 1.5.75.75 0 0 0 0-1.5z" /><path d="m23.36 19.2a.75.75 0 0 0 0 1.06.78.78 0 0 0 .51.2.74.74 0 0 0 .55-.24 10.24 10.24 0 0 1 15.08 0 .75.75 0 1 0 1.1-1 11.74 11.74 0 0 0 -17.28 0z" /><path d="m32 20.92a6.26 6.26 0 0 0 -4.6 2 .75.75 0 0 0 .05 1.08.75.75 0 0 0 1.06 0 4.77 4.77 0 0 1 7 0 .74.74 0 0 0 1.06 0 .75.75 0 0 0 .05-1.06 6.25 6.25 0 0 0 -4.62-2.02z" /><path d="m32 8.07a13.6 13.6 0 1 0 13.6 13.6 13.61 13.61 0 0 0 -13.6-13.6zm0 25.69a12.1 12.1 0 1 1 12.1-12.09 12.1 12.1 0 0 1 -12.1 12.09z" /></g> </svg>
-                                                            <a href="" className="ml-2 md:-ml-[60%] -mt-3 md:mt-3 text-[#4d55bb] font-medium font-sans md:text-2xl">Gallery</a>
+                                                            <Link to="/gallery" className="ml-2 md:-ml-[60%] -mt-3 md:mt-3 text-[#4d55bb] font-medium font-sans md:text-2xl">Gallery</Link>
                                                         </div>
                                                         <p
 
@@ -344,8 +344,8 @@ export default function NavBar() {
                                 </Transition>
                             </Menu>
                             </li>
-                            
-                            
+
+
                             <li><Menu as="div" className="relative inline-block text-left">
                                 <div>
                                     <Menu.Button className="  font-[Poppins] hover:text-[#4d55bb]  inline-flex w-full justify-center rounded-md  bg-white px-4 py-2 text-2xl font-light hvrgrow">
