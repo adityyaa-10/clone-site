@@ -13,8 +13,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 mb-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -22,8 +22,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -31,8 +31,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -42,8 +42,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -51,8 +51,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -60,8 +60,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -71,8 +71,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -80,8 +80,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -89,8 +89,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -100,8 +100,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -109,8 +109,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -118,8 +118,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -129,8 +129,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -138,8 +138,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -147,8 +147,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -158,8 +158,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -167,8 +167,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -176,8 +176,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -187,8 +187,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -196,8 +196,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -205,8 +205,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -216,8 +216,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -225,8 +225,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -234,8 +234,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -245,8 +245,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -254,8 +254,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -263,8 +263,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -274,8 +274,8 @@ const Team = () => (
                 </div>
                 <div className="flex flex-wrap -m-4 py-4">
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/200x200" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/200x200" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Alper Kamu</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -283,8 +283,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/201x201" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/201x201" />
                             <div className="w-full">
                                 <h2 className=" title-font font-semibold text-xl text-gray-900">Holden Caulfield</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
@@ -292,8 +292,8 @@ const Team = () => (
                         </div>
                     </div>
                     <div className="p-4 md:w-1/3 w-auto mx-auto hvrgrow ">
-                        <div className="h-full flex flex-col items-center text-center">
-                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4" src="https://dummyimage.com/202x202" />
+                        <div className="h-full flex flex-col items-center text-center hover:shadow-2xl">
+                            <img alt="team" className="flex-shrink-0 w-full h-72 object-cover object-center mb-4 rounded-t-2xl" src="https://dummyimage.com/202x202" />
                             <div className="w-full">
                                 <h2 className="title-font font-semibold text-xl text-gray-900">Atticus Finch</h2>
                                 <h3 className="text-gray-500 mb-3">UI Developer</h3>
