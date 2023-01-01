@@ -17,12 +17,12 @@ const Footer = () => {
                             >
                                 Recieve important update and newsletter
                             </p>
-                            <div>                          
-                            <input type="text" placeholder='Enter your email' className=' max-w-[200px] px-7 py-3 text-black border border-[#4d55bb] rounded-lg' />
+                            <div>
+                                <input type="text" placeholder='Enter your email' className=' max-w-[200px] px-7 py-3 text-black border border-[#4d55bb] rounded-lg' />
 
-                            <a href="#" className="inline-flex  ml-5 items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
-                                Subscribe!
-                            </a>
+                                <a href="#" className="inline-flex  ml-5 items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
+                                    Subscribe!
+                                </a>
                             </div>
 
                             <ul class="mt-8 flex justify-center gap-6 sm:justify-start md:gap-8">
@@ -305,7 +305,7 @@ const Footer = () => {
                                                 <span
                                                     class="text-gray-700 transition group-hover:text-[#4d55bb]"
                                                 >
-                                                Past Speakers
+                                                    Past Speakers
                                                 </span>
 
                                                 {/* <span class="relative -mr-2 flex h-2 w-2">
