@@ -29,9 +29,6 @@ const About = () => (
 
                     <p className=" max-w-xl mt-5 mb-6 font-light text-gray-700 lg:mb-8 md:text-lg lg:text-xl">The Entrepreneurship Cell of KIET Ghaziabad is a student body that strives to cater the needs of aspiring entrepreneurs as well as educate the student community about the latest happenings in the startup ecosystem.</p>
                     <p className=" max-w-xl mt-5 mb-6 font-light text-gray-700 lg:mb-8 md:text-lg lg:text-xl">E-Cell seeks to support the broader startup ecosystem in India by bringing together and establishing a community of dedicated students, professors, angel investors, and industry experts.</p>
-                    <a href="#" className="inline-flex items-center justify-center px-7 py-3 text-xl text-center text-[#4d55bb] border border-[#4d55bb] rounded-lg hover:text-white hvr-sweep-to-right ">
-                        Register Now!
-                    </a>
                 </div>
 
                 <div className="lg:mt-0 lg:col-span-5 lg:flex">
