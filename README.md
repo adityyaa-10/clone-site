@@ -3,6 +3,7 @@
 This is a clone of the frontend of <a href="https://www.e-cell.in/">E-Cell</a> website.
 
 ### This app is created using Vite+React [Read Documentation](https://vitejs.dev/guide/)
+### The designing is done by using [Tailwind CSS](https://tailwindcss.com)
 
 To run the project locally in your system, follow these steps.
 
