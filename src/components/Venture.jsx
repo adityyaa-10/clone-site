@@ -9,7 +9,7 @@ const Venture = () => (
             </div>
 
             <div className="ml-auto place-self-center lg:col-span-7 ">
-                <h1 className="max-w-2xl mb-4 text-4xl font-light tracking-tight leading-none md:text-5xl xl:text-6xl text-center sm:text-left">Start your <span className='text-[#4d55bb] font-bold'>Venture!</span></h1>
+                <h1 className="max-w-2xl mb-4 text-4xl font-medium tracking-tight leading-none md:text-5xl xl:text-6xl text-center sm:text-left">Start your <span className='text-[#4d55bb] font-extrabold'>Venture!</span></h1>
 
                 <p className="max-w-xl mt-11 mb-6 font-light text-gray-600 lg:mb-8 md:text-lg lg:text-xl text-center sm:text-left"> <span className='font-medium'>Starting a new business? </span>Find out where to begin and how to achieve success. Your business plan is the foundation of your business. It's a roadmap for how to structure, run, and grow your new business as a whole.</p>
 

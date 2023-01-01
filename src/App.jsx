@@ -5,6 +5,7 @@ import About from './components/About';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Speakers from './components/Speakers';
 import Team from './components/Team';
+import Events from './components/Events';
 
 const App = () => (
   <BrowserRouter>
@@ -22,6 +23,9 @@ const App = () => (
     </Routes>
     <Routes>
       <Route path="/team" element={<Team />}></Route>
+    </Routes>
+    <Routes>
+      <Route path="/events" element={<Events />}></Route>
     </Routes>
   </BrowserRouter>
 );
