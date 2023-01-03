@@ -15,7 +15,7 @@ export default function NavBar() {
 
     return (
         <nav className="w-full bg-white shadow sticky top-0 z-50">
-            <div className="justify-between px-4 mx-auto lg:max-w-7xl md:items-center md:flex md:px-8">
+            <div className="justify-between px-2 mx-auto lg:max-w-7xl md:items-center md:flex md:px-4">
                 <div>
                     <div className="flex items-center justify-between py-3 md:py-3 md:block">
                         <Link to="/">
